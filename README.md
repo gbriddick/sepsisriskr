@@ -1,2 +1,22 @@
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # sepsisriskr
-Calculate Sepsis Risk Factors, including SOFA, qSOFA, APACHE II, APACHE III, and SIRS criteria
+The `sepsisriskr` package provides functions to calculate common Sepsis Risk Factors, including 
+1. SOFA 
+2. qSOFA 
+3. APACHE II
+4. APACHE III
+5. SIRS criteria
+
+Installation
+--------------
+
+
+The `sepsisriskr` package can be installed from GitHub using the `devtools` package and the following commands:
+
+``` r
+# install.packages("devtools")
+library(devtools)
+
+install_github("gbriddick\sepsisriskr")
+```
