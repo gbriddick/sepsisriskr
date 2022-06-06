@@ -16,10 +16,10 @@ knitr::opts_chunk$set(
 
 The `sepsisriskr` package provides functions to calculate common Sepsis Risk Factors, including 
 1. SOFA 
-2. qSOFA 
-3. APACHE II
-4. APACHE III
-5. SIRS criteria
+1. qSOFA 
+1. APACHE II
+1. APACHE III
+1. SIRS criteria
 
 ## Installation
 
